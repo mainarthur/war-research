@@ -9,6 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "excel4node": "^1.8.0"
+    "base-64": "^1.0.0",
+    "excel4node": "^1.8.0",
+    "qs": "^6.11.0",
+    "utf8": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.3"
   }
 }
